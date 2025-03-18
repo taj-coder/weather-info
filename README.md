@@ -1,5 +1,14 @@
-# WeatherInfo
-Node.js project using express, ejs where we fetch the weather data from weather api.
+visual-Space_weather-app
+Weather Checker
+Weather Checker is a simple web application that allows users to check the current weather of a city. The project is built using HTML, CSS, and JavaScript.
+
+Overview
+The application consists of a single HTML page (see :contentReference[oaicite:0]{index=0}) that includes:
+
+A form to input a city name.
+A submit button that triggers the weather check.
+A results area to display the weather information.
+The JavaScript logic is contained in script1.js, and styling is managed via styles.css.
 
 <img src="https://user-images.githubusercontent.com/80477846/138468330-19e20a9b-0b7f-4eb7-8342-66000af27b51.png" alt="GitHub Logo" style="max-width: 100%;">
 
