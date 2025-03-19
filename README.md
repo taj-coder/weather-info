@@ -1,4 +1,3 @@
-visual-Space_weather-app
 
 <img src="https://user-images.githubusercontent.com/80477846/138468330-19e20a9b-0b7f-4eb7-8342-66000af27b51.png" alt="GitHub Logo" style="max-width: 100%;">
 
